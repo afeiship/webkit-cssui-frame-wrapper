@@ -1,8 +1,8 @@
 {
-  "name": "webkit-cssui-media-wrapper",
+  "name": "webkit-cssui-frame-wrapper",
   "version": "0.0.0",
-  "description": "Webkit css ui module media wrapper.",
-  "homepage": "https://github.com/afeiship/webkit-cssui-media-wrapper",
+  "description": "Webkit css ui module frame wrapper.",
+  "homepage": "https://github.com/afeiship/webkit-cssui-frame-wrapper",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"

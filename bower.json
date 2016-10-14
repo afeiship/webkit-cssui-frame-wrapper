@@ -1,9 +1,9 @@
 {
-  "name": "webkit-cssui-media-wrapper",
-  "description": "Webkit css ui module media wrapper.",
+  "name": "webkit-cssui-frame-wrapper",
+  "description": "Webkit css ui module frame wrapper.",
   "main": [
-    "dist/media-wrapper.css",
-    "dist/media-wrapper.scss"
+    "dist/frame-wrapper.css",
+    "dist/frame-wrapper.scss"
   ],
   "authors": [
     "afei"
@@ -12,7 +12,7 @@
   "keywords": [
     "webkit",
     "cssui",
-    "media-wrapper"
+    "frame-wrapper"
   ],
   "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
   "moduleType": [

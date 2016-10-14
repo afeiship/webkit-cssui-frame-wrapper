@@ -1,11 +1,11 @@
-/*media-wrapper Start*/
-.media-wrapper {
+/*frame-wrapper Start*/
+.frame-wrapper {
   position: relative;
   overflow: hidden;
   display: inline-block;
 }
 
-.media-wrapper > img {
+.frame-wrapper > img {
   object-fit: cover;
   position: absolute;
   top: 50%;
@@ -16,4 +16,4 @@
   -webkit-transform: translate(-50%, -50%);
 }
 
-/*media-wrapper End*/
+/*frame-wrapper End*/
