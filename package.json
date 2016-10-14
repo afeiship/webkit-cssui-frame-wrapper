@@ -1,8 +1,8 @@
 {
-  "name": "webkit-cssui-avatar-wrapper",
+  "name": "webkit-cssui-media-wrapper",
   "version": "0.0.0",
-  "description": "Webkit css ui module avatar wrapper.",
-  "homepage": "https://github.com/afeiship/webkit-cssui-avatar-wrapper",
+  "description": "Webkit css ui module media wrapper.",
+  "homepage": "https://github.com/afeiship/webkit-cssui-media-wrapper",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"

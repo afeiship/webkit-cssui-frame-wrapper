@@ -1,9 +1,9 @@
 {
-  "name": "webkit-cssui-avatar-wrapper",
-  "description": "Webkit css ui module avatar wrapper.",
+  "name": "webkit-cssui-media-wrapper",
+  "description": "Webkit css ui module media wrapper.",
   "main": [
-    "dist/avatar-wrapper.css",
-    "dist/avatar-wrapper.scss"
+    "dist/media-wrapper.css",
+    "dist/media-wrapper.scss"
   ],
   "authors": [
     "afei"
@@ -12,7 +12,7 @@
   "keywords": [
     "webkit",
     "cssui",
-    "avatar-wrapper"
+    "media-wrapper"
   ],
   "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
   "moduleType": [
