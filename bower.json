@@ -1,0 +1,29 @@
+{
+  "name": "webkit-cssui-avatar-wrapper",
+  "description": "Webkit css ui module avatar wrapper.",
+  "main": [
+    "dist/avatar-wrapper.css",
+    "dist/avatar-wrapper.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "avatar-wrapper"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
