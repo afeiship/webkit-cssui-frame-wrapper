@@ -2,6 +2,7 @@
 .avatar-wrapper {
   position: relative;
   overflow: hidden;
+  display: inline-block;
   > img {
     position: absolute;
     top: 50%;
