@@ -1,5 +1,5 @@
-# webkit-cssui-frame-wrapper
-> Webkit css ui module media wrapper.
+# webkit-sassui-frame-wrapper
+> Webkit sass ui module media wrapper.
 
 ## usage:
 ```html
