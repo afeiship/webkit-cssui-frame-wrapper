@@ -2,8 +2,8 @@
   "name": "webkit-cssui-frame-wrapper",
   "description": "Webkit css ui module frame wrapper.",
   "main": [
-    "dist/frame-wrapper.css",
-    "dist/frame-wrapper.scss"
+    "dist/webkit-sassui-frame-wrapper.css",
+    "dist/webkit-sassui-frame-wrapper.scss"
   ],
   "authors": [
     "afei"
