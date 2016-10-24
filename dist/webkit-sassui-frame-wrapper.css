@@ -1,11 +1,11 @@
-/*frame-wrapper Start*/
-.frame-wrapper {
+/*webkit-sassui-frame-wrapper Start*/
+.webkit-sassui-frame-wrapper {
   position: relative;
   overflow: hidden;
   display: inline-block;
 }
 
-.frame-wrapper > img {
+.webkit-sassui-frame-wrapper > img {
   object-fit: cover;
   position: absolute;
   top: 50%;
@@ -16,4 +16,4 @@
   -webkit-transform: translate(-50%, -50%);
 }
 
-/*frame-wrapper End*/
+/*webkit-sassui-frame-wrapper End*/
