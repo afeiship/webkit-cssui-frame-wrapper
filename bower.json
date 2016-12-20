@@ -1,5 +1,5 @@
 {
-  "name": "webkit-cssui-frame-wrapper",
+  "name": "webkit-sassui-frame-wrapper",
   "description": "Webkit css ui module frame wrapper.",
   "main": [
     "dist/webkit-sassui-frame-wrapper.css",
