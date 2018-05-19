@@ -1,4 +1,14 @@
 /*webkit-sassui-frame-wrapper Start*/
+/* flex-align start*/
+/* flex-align end*/
+/* flex-direction start*/
+/* flex-direction end*/
+/* object-fit start*/
+/* object-fit end*/
+/* text-align start*/
+/* vertical-align end*/
+/* vertical-align start*/
+/* vertical-align end*/
 .webkit-sassui-frame-wrapper {
   position: relative;
   overflow: hidden;
@@ -14,6 +24,26 @@
   height: 100%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
+}
+
+.webkit-sassui-frame-wrapper[data-object-fit=contain] > img {
+  object-fit: contain;
+}
+
+.webkit-sassui-frame-wrapper[data-object-fit=cover] > img {
+  object-fit: cover;
+}
+
+.webkit-sassui-frame-wrapper[data-object-fit=fill] > img {
+  object-fit: fill;
+}
+
+.webkit-sassui-frame-wrapper[data-object-fit=inherit] > img {
+  object-fit: inherit;
+}
+
+.webkit-sassui-frame-wrapper[data-object-fit=none] > img {
+  object-fit: none;
 }
 
 /*webkit-sassui-frame-wrapper End*/

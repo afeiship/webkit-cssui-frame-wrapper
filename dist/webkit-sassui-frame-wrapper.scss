@@ -1,4 +1,7 @@
 /*webkit-sassui-frame-wrapper Start*/
+@import 'node_modules/webkit-sass-default-props/dist/webkit-sass-default-props.scss';
+
+
 .webkit-sassui-frame-wrapper {
   position: relative;
   overflow: hidden;
@@ -13,5 +16,14 @@
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
   }
+
+  @each $value in $list-object-fit{
+    &[data-object-fit=#{$value}]{
+      >img {
+        object-fit: $value;
+      }
+    }
+  }
+
 }
 /*webkit-sassui-frame-wrapper End*/
