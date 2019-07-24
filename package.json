@@ -1,6 +1,6 @@
 {
   "name": "webkit-sassui-frame-wrapper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Webkit sass ui module frame wrapper.",
   "homepage": "https://github.com/afeiship/webkit-sassui-frame-wrapper",
   "author": {
@@ -12,12 +12,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "del": "^2.2.1",
-    "gulp": "^3.9.1",
-    "gulp-load-plugins": "^1.2.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2",
-    "yargs": "^4.7.1"
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "yargs": "^13.3.0"
   },
   "dependencies": {
     "webkit-sass-default-props": "github:afeiship/webkit-sass-default-props"

@@ -1,23 +1,12 @@
 {
   "name": "webkit-sassui-frame-wrapper",
-  "description": "Webkit css ui module frame wrapper.",
-  "main": [
-    "dist/webkit-sassui-frame-wrapper.css",
-    "dist/webkit-sassui-frame-wrapper.scss"
-  ],
-  "authors": [
-    "afei"
-  ],
+  "description": "Webkit sass ui module frame wrapper.",
+  "main": ["dist/webkit-sassui-frame-wrapper.css", "dist/webkit-sassui-frame-wrapper.scss"],
+  "authors": ["afei"],
   "license": "MIT",
-  "keywords": [
-    "webkit",
-    "cssui",
-    "frame-wrapper"
-  ],
+  "keywords": ["webkit", "cssui", "frame-wrapper"],
   "homepage": "https://github.com/afeiship/webkit-sassui-frame-wrapper",
-  "moduleType": [
-    "amd"
-  ],
+  "moduleType": ["amd"],
   "ignore": [
     "**/.*",
     "node_modules",
