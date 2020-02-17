@@ -1,5 +1,14 @@
+/*!
+ * name: @feizheng/webkit-sassui-frame-wrapper
+ * description: Webkit sass ui module media wrapper.
+ * url: https://github.com/afeiship/webkit-sassui-frame-wrapper
+ * version: 1.0.0
+ * date: 2020-02-17 15:23:33
+ * license: MIT
+ */
+
 /*webkit-sassui-frame-wrapper Start*/
-@import "node_modules/webkit-sass-default-props/dist/webkit-sass-default-props.scss";
+@import "node_modules/@feizheng/webkit-sass-default-props/dist/index.scss";
 
 .webkit-sassui-frame-wrapper {
   position: relative;
