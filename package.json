@@ -25,10 +25,10 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2"
   },
-  "dependencies": {
-    "@feizheng/webkit-sass-default-props": "^1.0.0"
-  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@feizheng/webkit-sass-default-props": "^1.0.0"
   }
 }
