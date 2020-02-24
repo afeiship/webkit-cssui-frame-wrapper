@@ -12,6 +12,7 @@ npm i @feizheng/webkit-sassui-frame-wrapper
 ## usage
 ```scss
 @import '~@feizheng/webkit-sassui-frame-wrapper';
+@import '~@feizheng/webkit-sassui-frame-wrapper/dist/index.scss';
 ```
 
 ## resources
