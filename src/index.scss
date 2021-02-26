@@ -1,7 +1,7 @@
-/*webkit-sassui-frame-wrapper Start*/
-@import "@feizheng/webkit-sass-default-props/dist/index.scss";
+/*wsui-frame-wrapper Start*/
+.wsui-frame-wrapper {
+  $list-object-fit: (contain, cover, fill, inherit, none);
 
-.webkit-sassui-frame-wrapper {
   position: relative;
   overflow: hidden;
   display: inline-block;
@@ -19,4 +19,4 @@
     }
   }
 }
-/*webkit-sassui-frame-wrapper End*/
+/*wsui-frame-wrapper End*/

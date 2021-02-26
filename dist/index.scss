@@ -1,16 +1,16 @@
 /*!
- * name: @feizheng/webkit-sassui-frame-wrapper
+ * name: @jswork/wsui-frame-wrapper
  * description: Webkit sass ui module media wrapper.
- * url: https://github.com/afeiship/webkit-sassui-frame-wrapper
- * version: 1.0.1
- * date: 2020-02-24 14:05:58
+ * homepage: https://github.com/afeiship/wsui-frame-wrapper
+ * version: 1.0.0
+ * date: 2021-02-26 15:55:04
  * license: MIT
  */
 
-/*webkit-sassui-frame-wrapper Start*/
-@import "@feizheng/webkit-sass-default-props/dist/index.scss";
+/*wsui-frame-wrapper Start*/
+.wsui-frame-wrapper {
+  $list-object-fit: (contain, cover, fill, inherit, none);
 
-.webkit-sassui-frame-wrapper {
   position: relative;
   overflow: hidden;
   display: inline-block;
@@ -28,4 +28,4 @@
     }
   }
 }
-/*webkit-sassui-frame-wrapper End*/
+/*wsui-frame-wrapper End*/

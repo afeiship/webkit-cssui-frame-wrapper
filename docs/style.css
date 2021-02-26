@@ -1,55 +1,45 @@
 /*!
- * name: @feizheng/webkit-sassui-frame-wrapper
+ * name: @jswork/wsui-frame-wrapper
  * description: Webkit sass ui module media wrapper.
- * url: https://github.com/afeiship/webkit-sassui-frame-wrapper
- * version: 1.0.1
- * date: 2020-02-24 14:05:58
+ * homepage: https://github.com/afeiship/wsui-frame-wrapper
+ * version: 1.0.0
+ * date: 2021-02-26 15:55:04
  * license: MIT
  */
-/*webkit-sassui-frame-wrapper Start*/
-/* flex-align start*/
-/* flex-align end*/
-/* flex-direction start*/
-/* flex-direction end*/
-/* object-fit start*/
-/* object-fit end*/
-/* text-align start*/
-/* vertical-align end*/
-/* vertical-align start*/
-/* vertical-align end*/
-.webkit-sassui-frame-wrapper {
+/*wsui-frame-wrapper Start*/
+.wsui-frame-wrapper {
   position: relative;
   overflow: hidden;
   display: inline-block;
 }
 
-.webkit-sassui-frame-wrapper > img {
+.wsui-frame-wrapper > img {
   object-fit: cover;
   width: 100%;
   height: 100%;
 }
 
-.webkit-sassui-frame-wrapper[data-object-fit="contain"] > img {
+.wsui-frame-wrapper[data-object-fit="contain"] > img {
   object-fit: contain;
 }
 
-.webkit-sassui-frame-wrapper[data-object-fit="cover"] > img {
+.wsui-frame-wrapper[data-object-fit="cover"] > img {
   object-fit: cover;
 }
 
-.webkit-sassui-frame-wrapper[data-object-fit="fill"] > img {
+.wsui-frame-wrapper[data-object-fit="fill"] > img {
   object-fit: fill;
 }
 
-.webkit-sassui-frame-wrapper[data-object-fit="inherit"] > img {
+.wsui-frame-wrapper[data-object-fit="inherit"] > img {
   object-fit: inherit;
 }
 
-.webkit-sassui-frame-wrapper[data-object-fit="none"] > img {
+.wsui-frame-wrapper[data-object-fit="none"] > img {
   object-fit: none;
 }
 
-/*webkit-sassui-frame-wrapper End*/
-.test-webkit-sassui-frame-wrapper {
+/*wsui-frame-wrapper End*/
+.test-wsui-frame-wrapper {
   border: 1px solid red;
 }
